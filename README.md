@@ -4,7 +4,7 @@
 Application that generates read me file based on user input to prompts
 
 ## Link
-https://kmiller8.github.io/challengefive/
+https://kmiller8.github.io/read-me-generator/
 
 ## Built With
 * JS
