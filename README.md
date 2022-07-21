@@ -1,10 +1,24 @@
-## Descritption
-This project uses the command line to generate a professional README based on user input.  The user is prompt to answer questions using inquirier.  Those answers are then dynamically added to the generatedREADME.md file. 
+# Challenge Nine
 
-## Screenshot
+## Purpose
+Application that generates read me file based on user input to prompts
 
-![screenshot](/Screen%20Shot%202022-06-27%20at%2011.36.04%20AM.png)
+## Link
+https://kmiller8.github.io/challengefive/
+
+## Built With
+* JS
+* Node
+* Inquiry
+
+
+## Contribution
+Made with ❤️ by Kate Miller
+used https://github.com/AbbyRosenthal/challengeNine
+
 
 ## Link to Walkthrough Video
 
-https://drive.google.com/file/d/1BO-BIPgKXRI4jHVZ4YnOmNQUG1dv9kt6/view 
+https://drive.google.com/file/d/1LZ1z2vGfS9g_zgZSOvtgqXCM7La1tm1m/view
+
+
